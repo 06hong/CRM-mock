@@ -1,4 +1,18 @@
 #sign-in-btn{
-    background-color: blue;
-    color: white;
+    background-color:white;
+    color:blue;
+    border-radius: 6px;
+    border-color: blue;
 }
+#sign-in-btn2{
+    background-color:blue;
+    color:white;
+    border-radius: 6px;
+    border-color: blue;
+
+}
+
+#double-button{
+    width:50%;
+}
+
